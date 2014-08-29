@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Wallpaper!</string>
+    <string name="app_name">تام قەغىزى</string>
+
+	<declare-styleable name="Gallery">
+	    <attr name="android:galleryItemBackground" />
+	</declare-styleable>
+	<string name="setBtn">بېكىتىش</string>
+	<string name="sourceFolder">wallpaper/</string>
+	<string name="xmlFileName">wallpapers.aspx</string>
+	<string name="xmlFileUrl">http://localhost/</string> <!--add your server address here-->
+	<string name="ReturnStr">ياق</string>
+	<string name="Download">چۈشۈرۈش</string>
+	<string name="downTitle">چۈشۈرۈش</string>
+	<string name="downMsg">چۈشۈرۈۋاتىدۇ...</string>
+	<string name="downloadedmsg">چۈشۈرۈلۈپ بولغان، قايتا چۈشۈرەمسىز؟</string>
+	<string name="downloadedbtn">ھەئە</string>
+	<string name="notNet_dlg_title">ئۇچۇر</string>
+	<string name="notNet_dlg_msg">ئۈسكۈنە تورغا ئۇلانمىغان! تورغا ئۇلاپ ئاندىن ئىشلىتىڭ!</string>
+	<string name="notNet_dlg_btnCaption">جەزىملە</string>
+	<string name="closeBtn">تاقاش</string>
+	<string name="close">تاقاش</string>
+	<string name="copywrite">بىلكان شىركىتى يۇمشاق دېتال ئىجادىيەت بۆلۈمى</string>
+	<string name="webid">http://www.bilkan.net</string>
+	<string name="remarks">ئىزاھات</string> 
+	<string name="mobile_dlg_title">تور ھالىتى</string>
+	<string name="loading">چۈشۈرۈۋاتىدۇ...</string>
+    <string name="mobile_dlg_msg">نۆۋەتتىكى تور مۇھىتىدىمۇ داۋاملاشتۇرامسىز؟</string>
+    <string name="mobile_dlg_btnCaptionNo">ياق</string>
+    <string name="mobile_dlg_btnCaption">ھەئە</string>
+    <string name="app_info">ئەپ ھەققىدە</string>
+	<string name="app_name_en">Wallpaper</string>
+	<string name="app_name_cn">墙纸</string>
+	<string name="version">نەشرى 1.0.4</string>
+	<string name="app_info_content">بۇ مەخسۇس توردىن تام قەغەز تەمىنلەيدىغان ئەپ بولۇپ، ئۇيغۇرچە قوللايدىغان ئاندرويىد سېستىمېلىق ئۈسكۈنىلەردە نورمال ئىشلەيدۇ.</string>
+	<string name="version_new">بۇ نەشىردىكى يېڭىلىقلار:</string>
+	<string name="version_new_content">قوزغىلىش ئېكرانى قوشۇلدى.\nئەپ ئۇچۇرى كۆزنىكى يېڭىلاندى.</string>
+	<string name="copyright">ئاپتورلۇق ھوقۇقى باياناتى:</string>
+	<string name="copyright_content">بۇ بىر ھەقسىز دېتال. رۇخسەتسىز سودىغا ئىشلىتىشكە بولمايدۇ. ئاپتورلۇق ھوقۇقى بىلكان ئېلېكتىرون پەن- تېخنىكا شىركىتىگە تەئەللۇق!</string>
+	<string name="copyright_content_en">Copyright 2011 BILKAN       All Rights Reserved.\nwww.bilkan.net</string>
+
+    
+</resources>
