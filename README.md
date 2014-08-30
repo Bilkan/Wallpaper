@@ -6,6 +6,7 @@ A simple wallpaper manager for Android. The server side program is based on Micr
 ‏ئاندرويىد ئۈچۈن تۈزۈلگەن ئاددىي تام قەغەز باشقۇرغۇچ. مۇلازىمتېر تەرەپ پروگراممىسى Microsoft .NET دا تۈزۈلگەن. مەزكۇر ئەپ رەسىم ئادرېسىنى مۇلازىمىتېردىكى XML ھۆججىتىدىن ئوقۇپ ئالىدۇ ۋە رەسىمنى تام قەغەز قىلىپ بېكىتىپ بېرىدۇ.
 
 ![screenshot](screenshots/003.png)
+
 ![screenshot](screenshots/004.png)
 
 How To Use
